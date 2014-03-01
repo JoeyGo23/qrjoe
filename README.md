@@ -1,0 +1,3 @@
+== README
+
+Qr code attempts
